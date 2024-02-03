@@ -2,6 +2,9 @@
 
 ## Why I use and recommend this?
 
+- If you comming from other fields like me(AI/ML) 
+- If want to make sure your team have standardize and modern development environment
+
 ### Svelte - My story
 I came from AI/ML background - trying to build an user facing product.
 
