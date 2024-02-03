@@ -1,38 +1,25 @@
-# create-svelte
+# Svelte TypeScript Codespace 
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+## Why I use and recommend this?
 
-## Creating a project
+### Svelte - My story
+I came from AI/ML background - trying to build an user facing product.
 
-If you're seeing this, you've probably already done this step. Congrats!
+As conventional wisdom goes, I started with React and Next.js. But found that the programming model was not obvious to me. And the availability of templates actually made it harder - I am able to get a template working very fast, but struggle even to make a small change. I did try some other frameworks, but found the same problem.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+Then I found Svelte. It was a click right the way, I love the fact that I can write plain HTML, CSS and JavaScript(TS) the way I normally do with a normal programming model. I just go through the tutorial 1 time and the rest I spend on reading the Moliza web docs which appear to me as the right way to do things.  
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
 
-## Developing
+### TypeScript - CodeSpace and the modern development evnironment
+Programming as a tool to solve problems, and create value. 
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+I still remmeber the days when I was writing C and python for my thesis, it is just a pain to fix syntax errors everyday and debug with print. And the inexperience make me think that is the real skill of programming. 
 
-```bash
-npm run dev
+No. Programming is not about fixing bugs and laboring through indiosyncratic mistakes. 
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+Programming is also not about setting up the environment, and the tooling. Let grow up and let the computer do the work for us. Dont put junior developers on the battle field without proper armor, that just negligent and cruel.
 
-## Building
 
-To create a production version of your app:
+### Let aim for the best
+Help the new guys who just join our team start to contribute in 1 day, not 1 month.
 
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
